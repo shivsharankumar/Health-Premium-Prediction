@@ -80,7 +80,7 @@ Health_premium_Prediction/
    ```bash
    streamlit run app/main.py
    ```
-
+4. Hosted at : https://shiv-health-premium-prediction.streamlit.app/
 ## Usage
 
 1. Open your web browser and navigate to the Streamlit app (usually `http://localhost:8501`)
