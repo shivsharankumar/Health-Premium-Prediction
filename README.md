@@ -67,7 +67,7 @@ Health_premium_Prediction/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   [git clone <repository-url>](https://github.com/shivsharankumar/Health-Premium-Prediction.git)
    cd Health_premium_Prediction
    ```
 
